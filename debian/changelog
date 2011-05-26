@@ -1,0 +1,11 @@
+cdebootstrap-excito (1.1) vincent; urgency=low
+
+  * adding vincent 
+
+ -- Carl Fürstenberg <carl@excito.com>  Wed, 07 Jul 2010 15:37:20 +0200
+
+cdebootstrap-excito (1.0) vincent; urgency=low
+
+  * New package
+
+ -- Carl Fürstenberg <carl@excito.com>  Wed, 30 Jun 2010 14:28:40 +0200

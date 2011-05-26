@@ -1,0 +1,34 @@
+Comment: $LastChangedBy: bastian $
+Comment: $LastChangedDate: 2008-03-21 15:19:09 +0100 (Fr, 21 Mär 2008) $
+Comment: $LastChangedRevision: 1570 $
+
+Section: base
+Packages: apt
+
+Section: build
+Packages:
+ build-essential
+ fakeroot
+
+Section: standard
+Packages:
+ priority-required
+ priority-important
+ excito-keyring
+ locales-all
+ less
+ -makedev
+ -bubba
+ -bubba-album
+ -bubba-apt
+ -bubba-backend
+ -bubba-diskmanager
+ -bubba-frontend
+ -bubba-horde
+ -bubba-kernel
+ -bubba-manual
+ -bubba-modules
+ -bubba-networkmanager
+ -bubba-status
+ -squeezecenter
+

@@ -1,0 +1,16 @@
+Comment: $LastChangedBy: bastian $
+Comment: $LastChangedDate: 2008-02-27 16:46:23 +0100 (Mi, 27 Feb 2008) $
+Comment: $LastChangedRevision: 1548 $
+
+Section: base
+Flavour:
+  build
+  minimal
+  standard
+
+Section: build
+Flavour: build
+
+Section: standard
+Flavour: standard
+

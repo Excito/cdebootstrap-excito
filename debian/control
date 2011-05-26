@@ -1,0 +1,13 @@
+Source: cdebootstrap-excito
+Section: admin
+Priority: extra
+Maintainer: Carl Fürstenberg <carl@excito.com>
+Build-Depends: debhelper (>= 7.2)
+Standards-Version: 3.8.4
+Homepage: http://www.excito.com
+
+Package: cdebootstrap-excito
+Architecture: all
+Depends: ${misc:Depends}, cdebootstrap, excito-keyring
+Description: Bootstrap a Debian system - excito setup
+ This package contains excito specific settings for cdebootstrap
