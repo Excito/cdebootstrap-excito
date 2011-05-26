@@ -1,3 +1,10 @@
+cdebootstrap-excito (1.2) vincent hugo; urgency=low
+
+  * Bumping Standards-Version (no change)
+  * adding gbp-conf
+
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 26 May 2011 17:33:00 +0200
+
 cdebootstrap-excito (1.1) vincent; urgency=low
 
   * adding vincent 
