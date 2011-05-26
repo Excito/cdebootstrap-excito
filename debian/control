@@ -3,7 +3,7 @@ Section: admin
 Priority: extra
 Maintainer: Carl Fürstenberg <carl@excito.com>
 Build-Depends: debhelper (>= 7.2)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Homepage: http://www.excito.com
 
 Package: cdebootstrap-excito
